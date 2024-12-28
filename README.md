@@ -1,0 +1,7 @@
+## Finger Print Recognition 
+
+Fingerprint Authentication has been studied for well over a century. However, Now a days due to cyber crimes and requirements to have more security due to the high confidentiality in data which can cause major effects on each and every individual. We need a better authentication service. and due to the uniqueness and individuality fingerprint recognition is one of the best way to get the work done. Now a days major countries like Australia, Canada, India and China etc. are using fingerprint recognition as the Unique identification of each and every person. So, a technology like Fingerprint Recognition should be used more. Due to lack of digital means such as cameras, high end processing units. Fingerprints are first captured then processed. But in future it is possible to make fingerprint recognition realtime by camera. 
+
+### What we have done?
+
+The system we have used is a Pattern-based (or image-based) matching with minutiae extraction: Pattern based matching compares two fingerprints. This requires that the images be aligned in the same orientation. In order to do this, the Pattern-based finds a middle point in the fingerprint image. In the image-based matching, the template contains the size, type and pattern orientation within the fingerprint image. The person fingerprint image is compared with the template to recognize the degree. Which focuses on implementation of minutiae based matching technique. 
